@@ -12,4 +12,8 @@ public class GitClass {
     public void test(){
         System.out.println("Hello Git world");
     }
+    
+    public void test2(){
+        System.out.println("Hello Jasper");
+    }
 }
